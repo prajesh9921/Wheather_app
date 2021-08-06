@@ -4,4 +4,4 @@
 - This app uses weather API to show the temp.
 - You can select the city ang fetch the temp using API
 
-![App Scree Shots](blob:https://web.whatsapp.com/ac511282-e780-4724-868c-0af69549d0ad)
+![App Scree Shots](https://raw.githubusercontent.com/prajesh9921/Wheather_app/master/images/img1.jpeg)
